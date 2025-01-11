@@ -31,6 +31,6 @@ This project focuses on analyzing engagement data from mock social media account
 
 **Astra DB**
 
-<img src = "">
+<img src = "https://github.com/Parth-D3/Hackaholics/blob/main/util_images/astradb_1.png">
 <img src = "">
 
