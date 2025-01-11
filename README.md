@@ -27,3 +27,10 @@ This project focuses on analyzing engagement data from mock social media account
 
 **Langflow**
 
+<img src = "https://github.com/Parth-D3/Hackaholics/blob/main/util_images/langflow.png">
+
+**Astra DB**
+
+<img src = "">
+<img src = "">
+
